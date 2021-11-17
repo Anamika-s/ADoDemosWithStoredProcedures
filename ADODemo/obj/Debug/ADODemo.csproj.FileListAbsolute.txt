@@ -1,0 +1,7 @@
+C:\Users\adminvm.adminvm\source\repos\ADODemo\ADODemo\bin\Debug\ADODemo.exe.config
+C:\Users\adminvm.adminvm\source\repos\ADODemo\ADODemo\bin\Debug\ADODemo.exe
+C:\Users\adminvm.adminvm\source\repos\ADODemo\ADODemo\bin\Debug\ADODemo.pdb
+C:\Users\adminvm.adminvm\source\repos\ADODemo\ADODemo\obj\Debug\ADODemo.csprojAssemblyReference.cache
+C:\Users\adminvm.adminvm\source\repos\ADODemo\ADODemo\obj\Debug\ADODemo.csproj.CoreCompileInputs.cache
+C:\Users\adminvm.adminvm\source\repos\ADODemo\ADODemo\obj\Debug\ADODemo.exe
+C:\Users\adminvm.adminvm\source\repos\ADODemo\ADODemo\obj\Debug\ADODemo.pdb
